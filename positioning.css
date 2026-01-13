@@ -1,0 +1,38 @@
+body {
+    height: 1500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Static {
+    background: lightblue;
+    position: static;
+}
+.Relative {
+    background: lightgreen;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.Parent {
+    background: rgb(190, 114, 114);
+    position: relative;
+    height: 200px;
+    width: 300px;
+    margin: 30px; 
+}
+.Absolute {
+    background: rgb(142, 159, 147);
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+.Fixed {
+    background: rgb(245, 15, 15);
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.Sticky {
+    background: rgb(15, 245, 215);
+    position: sticky;
+    top: 0;
+}

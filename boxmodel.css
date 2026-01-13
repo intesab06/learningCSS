@@ -1,0 +1,11 @@
+.suitcase{
+    width: 300px;
+    height: 150px;
+    max-width: 500px;
+    min-height: 200px;
+    overflow: auto;
+    border: 2px solid black;
+    background-color: rgb(192, 126, 192);
+    padding: 15px;
+    margin: 20px;
+}

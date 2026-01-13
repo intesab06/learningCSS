@@ -1,0 +1,25 @@
+.hero{
+    background-color: plum;
+    font-size: 36px;
+    text-align: center;
+    padding: 60px 20px;
+}
+.hero-title{
+    color: darkslateblue;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.hero-subtitle{
+    color: royalblue;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.hero-button{
+    display: inline-block;
+    background-color: seagreen;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16 px;
+    border-radius: 10px;
+}
